@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: assets/img/me.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>9323</p>
