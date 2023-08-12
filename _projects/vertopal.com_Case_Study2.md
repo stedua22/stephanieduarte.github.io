@@ -7,7 +7,7 @@ viewport: width=device-width, initial-scale=1
 ---
 
 \-\-- layout: page title: Frito Lays description: Demostration of the
-Frito Lays img: assets/img/12.jpg importance: 1 category: work \-\--
+Frito Lays img: assets/img/frito lays.png importance: 1 category: work \-\--
 
 ::: {.container-fluid .main-container}
 ::: {.navbar .navbar-default .navbar-fixed-top role="navigation"}
